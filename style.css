@@ -1,0 +1,21 @@
+:root {
+--cs-text-light: #cfcfcf
+
+}
+
+.card.game-card { 
+  min-width: 350px;
+  max-width: 600px;
+}
+
+.site-font{
+  font-family: 'Merienda', cursive;
+}
+
+.my-text-light{
+  color: var(--cs-text-light);
+}
+
+.my-bg-light{
+  background-color: var(--cs-text-light);
+}
